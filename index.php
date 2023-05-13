@@ -14,6 +14,7 @@
 <?php
   echo "TEST";
   echo "GITテスト";
+  echo "2回目の変更"
 ?>
 
 <!-- 
